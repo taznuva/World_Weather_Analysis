@@ -1,7 +1,7 @@
 # World_Weather_Analysis
 
 ## Overview
-Collect and present data to a travel tech company to help their customers find their ideal hotel based on their preferred travel criteria. Perform requests on the open weather map API and retrieve weather data by using the citipy module on more than 500 random longitudes and latitudes. Use MatPlotlib to create a series of scatter plots to show the relationship between the latitudes and variety of weather parameters for over 500 cities around the US. Also perform statistical analysis by using linear regression which will help predict the best time of the year to plan for vacations. Map out these places by using Google Maps and Places API. 
+Collected data to a travel tech company to help their customers find their ideal hotel based on their preferred travel criteria. Perform requests on the open weather map API and retrieve weather data by using the citipy module on more than 500 random longitudes and latitudes. Use MatPlotlib to create a series of scatter plots to show the relationship between the latitudes and variety of weather parameters for over 500 cities around the US. Also perform statistical analysis by using linear regression which will help predict the best time of the year to plan for vacations. Map out these places by using Google Maps and Places API. 
 
 ## Project Plan
 - Task: Collect and analyze weather data across cities worldwide.
